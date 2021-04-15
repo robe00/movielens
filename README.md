@@ -10,6 +10,6 @@ The project consists of 5 files:
 3. report_all.pdf
    The generated report by report_all.Rmd
 4. RMSE_score.csv
-   A file containing the RSME of the "best" model
+   A file containing the RMSE of the "best" model
 5. predicted_movie_ratings.csv
    The predicted ratings based on the movielens
